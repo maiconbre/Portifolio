@@ -78,3 +78,8 @@ div.box .button{
     border-left:1px double #000000;
     border-right:1px double #000000;
 }
+
+body {
+    align-items: center;
+    text-align: center;
+}
