@@ -7,6 +7,7 @@ p   {
     color: rgb(0, 0, 0); /* cor do texto */
     text-align: center;     /* alinhamento */
 }
+
 .principal {
     width: 85%;
     margin: 0 auto;
@@ -45,5 +46,8 @@ section {
         grid-template-columns: 100%;
         grid-template-areas: "cabecalho" "secao" "barra-lateral" "rodape";
      }
+   }
 
-
+   body {
+      text-align: center;
+   }
