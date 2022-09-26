@@ -4,15 +4,14 @@ h1 {
     color: rgb(243, 220, 13);
     font-size:55px;
     text-align: center;
-  }
-  h3 {
+}
+h3 {
     text-shadow: rgb(0, 0, 0) 2px 3px 2px;
     font-family: Copperplate, Papyrus, fantasy; 
     color: rgb(245, 110, 0);
     font-size:30px;
     text-align: center;
-  }
-  
+}
 button {
 background-color: rgb(102, 199, 238);
 font-size:  25px;
@@ -22,7 +21,6 @@ h4 {
   font-size: 20px;
   
 }
-
 body {
   align-items: center;
   text-align: center;
