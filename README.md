@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="assets\imgs\foto do portifolio.jpg" alt="Página Inicial da Aplicação Web" />
+<img src="assets\imgs\portifolio.jpg" alt="Página Inicial da Aplicação Web" />
 
 > Esta é minha web page pessoal, nela conterá informações profissionais e de contato. Com o desenvolvimento dessa aplicação irei praticar os conceitos de design, Front-End Developer [Clique aqui para visualizar a página!](https://pumbadev.com)
 
