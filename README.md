@@ -20,7 +20,7 @@
 - [x] Cards com animação para visualização de projetos.
 - [x] Responsividade.
 - [x] Adicionar botão/link Gmail.
-- [x] Adicionar Mailer API.
+- [x] Links com rolagem scrol por sections.
 - [ ] Implementar modo Dark.
 
 ## 💻 Feito Com:
